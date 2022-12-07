@@ -5,3 +5,4 @@ Integrantes del proyecto:
   Javier Láiz
   Sergio Plaza
   Alicia Ruiz
+  Julián Nevado
